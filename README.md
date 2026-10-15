@@ -1,5 +1,6 @@
-<img width="300" align="center" alt="Screenshot_20261016_012244" src="https://github.com/user-attachments/assets/a0774564-9f73-405f-bfaa-abd9969d14f5" />
-
+<p align="center">
+<img width="300" alt="Screenshot_20261016_012244" src="https://github.com/user-attachments/assets/a0774564-9f73-405f-bfaa-abd9969d14f5" />
+</p>
 
 # Blade Runner Android Widget
 
