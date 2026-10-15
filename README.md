@@ -1,4 +1,6 @@
-<img width="300" alt="Screenshot_20261016_012244" src="https://github.com/user-attachments/assets/a0774564-9f73-405f-bfaa-abd9969d14f5" />
+<img width="300" align="center" alt="Screenshot_20261016_012244" src="https://github.com/user-attachments/assets/a0774564-9f73-405f-bfaa-abd9969d14f5" />
+
+
 # Blade Runner Android Widget
 
 A sleek, minimalist Android home screen widget inspired by the aesthetics of Blade Runner. It features a digital clock, the current date, and real-time weather updates with custom icons.
