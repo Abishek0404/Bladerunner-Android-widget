@@ -1,0 +1,22 @@
+- [x] Create `WeatherFetcher.java` with API key
+- [x] Create `widget_blade_runner.xml` layout
+- [x] Create `blade_runner_widget_info.xml` metadata
+- [x] Create `BladeRunnerWidgetProvider.java`
+- [x] Update `AndroidManifest.xml`
+- [x] Verify build with `./gradlew assembleDebug`
+- [x] Fix weather location query (Chennai,IN)
+- [x] Hardcode displayed location label (Manapakkam)
+- [x] Darken text colors (#1A1A1A for time, #4D4D4D for location)
+- [x] Add red glow to temperature text
+- [x] Remove text shadow from temperature
+- [x] Change temperature color to brighter red (#FF3B30)
+- [x] Fix "Los Angeles" override by removing city name from weather callback
+- [x] Fix time updating by adding `SCHEDULE_EXACT_ALARM` permission and logging
+- [x] Add `ic_location_pin.xml` vector drawable
+- [x] Create `widget_background.xml` for subtle glass effect
+- [x] Refine `widget_blade_runner.xml` with icons and spacing
+- [x] Update `WeatherFetcher.java` to return weather condition
+- [x] Create thematic weather icons (`ic_weather_spinner`, `ic_weather_rain_lines`, etc.)
+- [x] Update `BladeRunnerWidgetProvider.java` to use digital font for temperature
+- [x] Implement condition-to-icon mapping logic
+- [x] Implement Smoked Glass background with squirqle corners (`28dp` radius), dark tint (`#99000000`), and subtle edge stroke (`#33FFFFFF`)
